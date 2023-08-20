@@ -1,6 +1,6 @@
 # Emotion-Classifier-using-Natural-Language-Processing-Technique
 
-In the domain of text analysis, a sophisticated supervised multi-label classifier system is implemented. Utilizing of Linear Support Vector Machines (LinearSVM), seamlessly integrated this mechanism into the Python ecosystem, employing object-oriented principles for a robust structure.
+In the domain of text analysis, a sophisticated supervised multi-label classifier system is implemented. Utilizing Linear Support Vector Machines (LinearSVM) achieve 85.01% prediction accuracy, seamlessly integrated this mechanism into the Python ecosystem, employing object-oriented principles for a robust structure.
 
 The primary goal of this project revolves around the implementation of multi-classification to distinguish among 10 distinct emotion labels. These labels encompass a range of sentiments, including neutral, gratitude, admiration, love, amusement, curiosity, approval, optimism, anger, and sadness. To accomplish this, we've employed the GoEmotion dataset, which has been appropriately divided into train and test subsets (imbalanced data) to facilitate training and testing. It's worth noting that the training and test datasets have been provided as part of the coursework, negating the need to attach the original data file.
 
