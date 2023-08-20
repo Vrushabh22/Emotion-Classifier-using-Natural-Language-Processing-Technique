@@ -12,3 +12,7 @@ For illustrative purposes, here's an example of the data employed during both th
 
 <img width="468" alt="image" src="https://github.com/Vrushabh22/Emotion-Classifier-using-Natural-Language-Processing-Technique/assets/120533599/3f7239dc-8dff-419c-909a-261999fb9a61">
 
+
+# How to Run the project
+
+To maintain simplicity, I have consolidated all components within a single Python Notebook file and also provided a readme file. By navigating through the Notebook, each cell contains comprehensive comments which will help understand the project steps.
